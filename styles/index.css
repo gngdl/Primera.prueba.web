@@ -1,4 +1,19 @@
-header{
-    
+table, th, td {
+    /* border: 1px solid black; */
+}
+.leftPadding{
+    padding-left: 30px;
 }
 
+
+.alinearderecha {
+    text-align: right;
+}
+
+.alinearizquierda{
+    text-align: left;
+}
+
+section{
+    text-align: center;
+}
